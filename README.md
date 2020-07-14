@@ -21,7 +21,9 @@ In future updates, I will look to use more advanced language models and go furth
 Less common libraries that may need to be installed:
 
 Cufflinks
+
 Shap
+
 TextBlob
 
 
