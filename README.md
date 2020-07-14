@@ -2,6 +2,8 @@
 
 https://www.kaggle.com/c/nlp-getting-started
 
+See notebook with proper formatting: https://nbviewer.jupyter.org/github/erick-hm/DisasterTweetsNLP/blob/master/DisasterTweetsNLP_NaiveBayes.ipynb
+
 The notebooks in this repository are submissions to the Kaggle competition, worked on by me only. The competition tasks teams with differentiating a sample of tweets, 
 on whether they correspond to real disasters or not. In addition to text data, we also have access to keywords associated to the tweets and location data, 
 both with many missing values. The data has a few erroneous entries, with some tweets with the same text carrying both labels for different entries. Nonetheless, this competition provides a
